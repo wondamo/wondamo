@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wondav
-- 👀 I’m interested in Machine Learning, Deep Learning and MLOps
-- 🌱 I’m currently learning Deep Learning, Transformers for NLP
+- 👀 I love Machine Learning, Deep Learning and MLOps
+- 🌱 I’m currently building Deep Learning Projects, in NLP, Computer Vision
 - 💞️ I’m looking to collaborate on Fine tuning Pretrained deep learning models for Speech-To-Text
 - 📫 How to reach me: wonderdavid2@gmail.com, +2348109627030
 
